@@ -35,7 +35,6 @@ PowerBI-Analytics-Projects/
 <img width="1889" height="1114" alt="{F08FCC64-C643-4AC6-B36A-E4E622E555F9}" src="https://github.com/user-attachments/assets/0621f841-35b2-47c7-a34a-7ec3227772ea" />
 
 
-# 📱 Mobile Sales Analytics Dashboard – Power BI
 
 ## 🔹 Overview
 
