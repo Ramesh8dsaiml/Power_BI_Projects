@@ -2,7 +2,7 @@
 
 📊 End-to-End Power BI Analytics  Projects for Real-World Business Insights
 using Power BI, DAX & Power Query 
-
+ 
 Project 1:
 
 # 📱 Mobile Sales Analytics Dashboard – Power BI
